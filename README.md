@@ -1,6 +1,6 @@
-# learnjavascriptpart1
+# learnjavascriptpart2
 
-Variables, data types, booleans, and math operations.  
+More on strings, string concatenation, and variables
 
 Clone the repository, open with live-server, and finish writing the code in the js.js file where indicated to.  
 
